@@ -16,7 +16,7 @@ export const Header: React.FC<HeaderProps> = ({ lastUpdated, loading, onRefresh 
             <Activity className="w-6 h-6 text-white" />
           </div>
           <div>
-            <h1 className="text-xl font-bold text-white tracking-tight">ETF-to-BTC Price Sync</h1>
+            <h1 className="text-xl font-bold text-white tracking-tight">BTC-to-ETF Price Sync</h1>
             <p className="text-xs text-slate-400">Real-time Fair Market Value Calculator</p>
           </div>
         </div>
