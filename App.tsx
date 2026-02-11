@@ -111,7 +111,7 @@ const App: React.FC = () => {
         </section>
 
         <footer className="pt-8 pb-12 text-center text-slate-600 text-sm">
-          <p>© {new Date().getFullYear()} ETF-to-BTC Price Sync. Data provided by CoinCap.</p>
+          <p>© {new Date().getFullYear()} BTC-to-ETF Price Sync. Data provided by CoinCap.</p>
           <p className="mt-2 text-xs">
             Disclaimer: This tool is for informational purposes only. <br/>
             Real-time data may vary. Always verify prices with your broker before trading.

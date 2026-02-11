@@ -1,5 +1,5 @@
 {
-  "name": "ETF-to-BTC Price Sync",
+  "name": "BTC-to-ETF Price Sync",
   "description": "Real-time Bitcoin ETF fair value calculator and limit order planner.",
   "requestFramePermissions": []
 }
